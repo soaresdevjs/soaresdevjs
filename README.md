@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Daniel</h1>
 <h3 align="center">Desenvolvedor Web made in Brasil!</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soaresdevjs&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soaresdevjs&show_icons=true&theme=cobalt)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soaresdevjs&label=Profile%20views&color=0e75b6&style=flat" alt="soaresdevjs" /> </p>
 
